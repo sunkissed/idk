@@ -41,8 +41,8 @@ var css = `
 }
 body {
   animation-name: roll; 
-  animation-duration: 500s; 
-  animation-iteration-count: 1;
+  animation-duration: 1s; 
+  animation-iteration-count: 100;
 }
 `
 var style = document.createElement("style");
